@@ -127,17 +127,3 @@ def k_means(dataset, k):
     return zip(assignments, dataset)
 
 
-# points = [
-#     [1, 2],
-#     [2, 1],
-#     [3, 1],
-#     [5, 4],
-#     [5, 5],
-#     [6, 5],
-#     [10, 8],
-#     [7, 9],
-#     [11, 5],
-#     [14, 9],
-#     [14, 14],
-#     ]
-# print k_means(points, 3)
